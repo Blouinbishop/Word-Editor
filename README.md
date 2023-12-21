@@ -13,9 +13,12 @@ WordEdit is a simple Java program that provides basic text editing functionality
 To run the WordEdit program, follow these steps:
 
 ### Prerequisites
-- Java Development Kit (JDK) installed on your machine.
+- Java Development Kit (JDK, IDE) installed on your machine.
 
 ### Usage
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Blouinbishop/Digital-Clock.git
+
+javac WordEdit.java
+java WordEdit
